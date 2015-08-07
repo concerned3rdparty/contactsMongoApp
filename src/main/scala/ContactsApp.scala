@@ -42,7 +42,7 @@ object ContactsApp extends App {
 
     val d = new File(dir)
     if (d.exists && d.isDirectory) {
-      d.listFiles.filter(_.isFile).toList.map{file => Future(xmlCheck(dir + "\\" + file.getName ))}
+      d.listFiles.filter(_.isFile).toList.map{file => xmlCheck(dir + "\\" + file.getName )}
     } else if(d.exists && !d.isDirectory){
         xmlCheck(dir)
       } else {
