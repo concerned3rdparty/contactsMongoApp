@@ -25,7 +25,7 @@ Note: A mongodb instance has to be already running at "localhost", 27017 before 
 
 sbt "run load xmlFile\c.cml"  // load an xml file to a mongodb collection
 sbt "run load xmlFile"        // load all xml files under xmlFile directory to to a mongodb collection
-                              //(for now it does notread parallel and nonblocking) 
+                              //(for now it does not read with Future  and it is not nonblocking) 
 sbt "run find ahmet"          // searchs for a contact with the name field ahmet in a mongodb collection
 sbt "run delete ahmet"        // delete a contact with the name field ahmet from a mongodb collection
 sbt "run deleteall"          // delete all contacts from collection from a mongodb collection
