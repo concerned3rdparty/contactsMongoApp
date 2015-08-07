@@ -11,7 +11,7 @@ libraryDependencies ++= Seq(
   "org.mockito" % "mockito-core" % "1.9.5" % Test
 )
 
-I've used intellij and its sbt plugin, configured to use scala 2_10. Import project as an sbt project and it will
+I've used intellij and its sbt plugin, configured to use scala 2_10 with jdk1.7. Import project as an sbt project and it will
 be ready to run.
 
 It supports upsert, find, delete, deleteall,exit operations. Persistence operations are tested with specs2 which uses 
