@@ -21,6 +21,8 @@ some println statements are used just to track flow of the state from console ou
 
 Usage of console commands :
 
+Note: A mongodb instance has to be already running at hos before running the app.
+
 sbt "run load xmlFile\c.cml"  // load an xml file to a mongodb collection
 sbt "run load xmlFile"        // load all xml files under xmlFile directory to to a mongodb collection
 sbt "run find ahmet"          // searchs for a contact with the name field ahmet in a mongodb collection
