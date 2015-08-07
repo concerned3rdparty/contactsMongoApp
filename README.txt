@@ -19,7 +19,7 @@ mockito for mock objects.
 
 some println statements are used just to track flow of the state from console output.
 
-Usage of console commands :
+Usage of console commands from the root dir of the project :
 
 Note: A mongodb instance has to be already running at "localhost", 27017 before running the app. I hardcoded this values in the  mongoConnector object,there you can change the line "val mongoClient = MongoClient("localhost", 27017)" accordingly.
 
@@ -31,7 +31,7 @@ sbt "run deleteall"          // delete all contacts from collection from a mongo
 
 you can also use intellij's edit configuration menu to input arguments like "load xmlFile\c.xml" and then run the app.
 
-to run tests : sbt test
+to run tests from the root dir of the project : sbt test
 
 persistance tests are handled but for now it does not test loadXml operations.
 
