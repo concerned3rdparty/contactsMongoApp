@@ -21,7 +21,7 @@ some println statements are used just to track flow of the state from console ou
 
 Usage of console commands :
 
-Note: A mongodb instance has to be already running at hos before running the app.
+Note: A mongodb instance has to be already running at "localhost", 27017 before running the app. I hardcoded this values in the  mongoConnector object,there you can change the line "val mongoClient = MongoClient("localhost", 27017)" accordingly.
 
 sbt "run load xmlFile\c.cml"  // load an xml file to a mongodb collection
 sbt "run load xmlFile"        // load all xml files under xmlFile directory to to a mongodb collection
