@@ -1,0 +1,27 @@
+[0m[[0minfo[0m] [0mTestMongoXml[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mMongoXml members[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m  save(contact) should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m    insert new contact [0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m    [32m+[0m succeeds[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m  find(name) should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m    find a contact with given name [0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m      succeeds [0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m      [32m+[0m if returned name is same [37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m  delete(name) should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m    delete the contact with given name[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m    [32m+[0m succeeds[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37mdeleteall() should[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m  delete all the documents in the collection [0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m  [32m+[0m succeeds[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0m[37m[0m[0m
+[0m[[0minfo[0m] [0m[37m[0mTotal for specification TestMongoXml[0m
+[0m[[0minfo[0m] [0m[36mFinished in 58 ms[0m[0m
+[0m[[0minfo[0m] [0m[36m[0m[36m4 examples, 0 failure, 0 error[0m[0m

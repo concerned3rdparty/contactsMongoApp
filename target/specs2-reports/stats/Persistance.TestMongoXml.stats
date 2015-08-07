@@ -1,0 +1,43 @@
+<Persistance.TestMongoXml-results timestamp="1438911591981"><result location="Persistance.TestMongoXml (TestMongoXml.scala:56)" id="-847373288"><stats time="105" expectations="1" failures="1" examples="1"></stats></result>
+</Persistance.TestMongoXml-results>
+<Persistance.TestMongoXml-stats timestamp="1438911591994"><stats time="48" expectations="4" failures="1" successes="3" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-results timestamp="1438911982811"><result location="Persistance.TestMongoXml (TestMongoXml.scala:49)" id="-2047702415"><stats time="96" expectations="1" failures="1" examples="1"></stats></result>
+</Persistance.TestMongoXml-results>
+<Persistance.TestMongoXml-stats timestamp="1438911982831"><stats time="49" expectations="4" failures="1" successes="3" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-results timestamp="1438912936584"><result location="Persistance.TestMongoXml (TestMongoXml.scala:49)" id="-2047702415"><stats time="138" expectations="1" failures="1" examples="1"></stats></result>
+</Persistance.TestMongoXml-results>
+<Persistance.TestMongoXml-stats timestamp="1438912936606"><stats time="51" expectations="4" failures="1" successes="3" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-results timestamp="1438913124935"><result location="Persistance.TestMongoXml (TestMongoXml.scala:49)" id="-2047702415"><stats time="45" expectations="1" failures="1" examples="1"></stats></result>
+</Persistance.TestMongoXml-results>
+<Persistance.TestMongoXml-stats timestamp="1438913124947"><stats time="26" expectations="4" failures="1" successes="3" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-results timestamp="1438913178156"><result location="Persistance.TestMongoXml (TestMongoXml.scala:49)" id="-2047702415"><stats time="43" expectations="1" failures="1" examples="1"></stats></result>
+</Persistance.TestMongoXml-results>
+<Persistance.TestMongoXml-stats timestamp="1438913178170"><stats time="22" expectations="4" failures="1" successes="3" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-results timestamp="1438914177950"><result location="Persistance.TestMongoXml (TestMongoXml.scala:49)" id="-2047702415"><stats time="37" expectations="1" failures="1" examples="1"></stats></result>
+</Persistance.TestMongoXml-results>
+<Persistance.TestMongoXml-stats timestamp="1438914177962"><stats time="19" expectations="4" failures="1" successes="3" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-results timestamp="1438914365747"><result location="Persistance.TestMongoXml (TestMongoXml.scala:49)" id="-2047702415"><stats time="38" expectations="1" failures="1" examples="1"></stats></result>
+</Persistance.TestMongoXml-results>
+<Persistance.TestMongoXml-stats timestamp="1438914365759"><stats time="18" expectations="4" failures="1" successes="3" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-results timestamp="1438915432001"><result location="Persistance.TestMongoXml (TestMongoXml.scala:49)" id="-2047702415"><stats time="39" expectations="1" failures="1" examples="1"></stats></result>
+</Persistance.TestMongoXml-results>
+<Persistance.TestMongoXml-stats timestamp="1438915432013"><stats time="18" expectations="4" failures="1" successes="3" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-results timestamp="1438915566723"><result location="Persistance.TestMongoXml (TestMongoXml.scala:49)" id="-2047702415"><stats time="36" expectations="1" failures="1" examples="1"></stats></result>
+</Persistance.TestMongoXml-results>
+<Persistance.TestMongoXml-stats timestamp="1438915566738"><stats time="18" expectations="4" failures="1" successes="3" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-results timestamp="1438915633423"><result location="Persistance.TestMongoXml (TestMongoXml.scala:49)" id="-2047702415"><stats time="35" expectations="1" failures="1" examples="1"></stats></result>
+</Persistance.TestMongoXml-results>
+<Persistance.TestMongoXml-stats timestamp="1438915633443"><stats time="18" expectations="4" failures="1" successes="3" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-results timestamp="1438915744459"><result location="Persistance.TestMongoXml (TestMongoXml.scala:49)" id="-2047702415"><stats time="36" expectations="1" failures="1" examples="1"></stats></result>
+</Persistance.TestMongoXml-results>
+<Persistance.TestMongoXml-stats timestamp="1438915744478"><stats time="18" expectations="4" failures="1" successes="3" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-stats timestamp="1438915834052"><stats time="21" expectations="4" successes="4" examples="4"><trend><stats time="21" failures="-1" successes="1"></stats></trend></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-stats timestamp="1438915870366"><stats time="19" expectations="4" successes="4" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-stats timestamp="1438917892521"><stats time="20" expectations="4" successes="4" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-stats timestamp="1438918198172"><stats time="20" expectations="4" successes="4" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-stats timestamp="1438951809526"><stats time="144" expectations="4" successes="4" examples="4"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-stats timestamp="1438951908460"><stats time="72" expectations="3" successes="3" examples="3"><trend><stats time="72" expectations="-1" successes="-1" examples="-1"></stats></trend></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-stats timestamp="1438952067263"><stats time="52" expectations="3" successes="3" examples="3"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-stats timestamp="1438952334964"><stats time="51" expectations="3" successes="3" examples="3"></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-stats timestamp="1438953111125"><stats time="95" expectations="4" successes="4" examples="4"><trend><stats time="95" expectations="1" successes="1" examples="1"></stats></trend></stats></Persistance.TestMongoXml-stats>
+<Persistance.TestMongoXml-stats timestamp="1438953298015"><stats time="58" expectations="4" successes="4" examples="4"></stats></Persistance.TestMongoXml-stats>
