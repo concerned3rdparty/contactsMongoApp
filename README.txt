@@ -1,6 +1,8 @@
 # contactsXmlMongo
 import xml contact elements to mongodb 
 
+NOTE: CLICK ON README.TXT TO READ IN A BETTER FORMAT 
+
 I've used casbah instead of reactiveMongo with iteratees and enumerators , as it does not deal with realtime data streams.
 
 libraryDependencies ++= Seq(
